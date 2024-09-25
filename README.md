@@ -12,7 +12,7 @@
         (prerequisite: install mongodb and update the config inside the application.properties)
         (install java 21, MVN : 3.3.X)
 
-#Also Added the docker file to run the project on docker(freeware version)
+#Optionally:  Added  docker file to run the project on docker(freeware version)
 
 
 ### Reference Documentation
